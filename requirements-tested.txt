@@ -1,0 +1,8 @@
+# Top-level versions used for CPU verification on Python 3.12.14.
+# Install the appropriate PyTorch CPU/CUDA build first; this is not a full lockfile.
+torch==2.15.0
+numpy==2.3.5
+scipy==1.17.0
+gensim==4.4.0
+tqdm==4.70.1
+-e .

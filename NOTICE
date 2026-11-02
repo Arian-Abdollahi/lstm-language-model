@@ -1,0 +1,13 @@
+LSTM Language Model
+Original notebook author: Arian Abdollahi
+Source: https://www.kaggle.com/code/arianabdollahi/language-model-with-lstm
+
+This repository preserves the original notebook source and adapts it into a
+Python package with separate data, model, training, evaluation, and text
+generation modules. The adaptation corrects embedding input, sequence tails,
+global state, sampling, and checkpoint handling, and adds tests and docs.
+
+The source notebook is displayed under Apache License 2.0 on Kaggle.
+A saved learning curve is reproduced unchanged with source attribution.
+Full training corpora and model weights are not distributed with this code.
+Dataset terms remain separate from the code license.
